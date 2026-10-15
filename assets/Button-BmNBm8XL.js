@@ -1,0 +1,1 @@
+import{j as t}from"./index-BSSH5MKD.js";const m=({variant:n="secondary",size:e="md",loading:s=!1,children:a,className:c="",disabled:r,...o})=>t.jsxs("button",{className:`c-btn c-btn--${n} c-btn--${e} ${c}`,disabled:r||s,...o,children:[s&&t.jsx("span",{className:"c-btn-spinner"}),a]});export{m as B};

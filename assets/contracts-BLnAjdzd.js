@@ -1,0 +1,1 @@
+const e=[{key:"single",label:"单间"},{key:"one_bed",label:"一房一厅"},{key:"one_bed_kitchen",label:"一房一厅带厨卫"},{key:"two_bed",label:"两房一厅"},{key:"shop",label:"商铺"},{key:"other",label:"其他"}],l=[{key:"elevator",label:"电梯房"},{key:"walkup",label:"步梯房"},{key:"tile",label:"瓦房"}],a="需人工续期海康会话";export{a as D,l as H,e as R};
